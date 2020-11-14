@@ -224,3 +224,9 @@
     border-bottom-color: #33C3F0; }
 }
  
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
